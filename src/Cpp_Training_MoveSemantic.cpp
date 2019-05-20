@@ -1,10 +1,10 @@
-//
-//  main.cpp
-//  CppNowExamples
-//
-//  Created by Nico Janetzko on 18.03.15.
-//  Copyright (c) 2015 Nico Janetzko. All rights reserved.
-//
+//============================================================================
+// Name        : main.cpp
+// Author      : schnetzko
+// Version     :
+// Copyright   : All rights reserved.
+// Description : CppNowConferenceExamples
+//============================================================================
 
 #include "BigData.h"
 
